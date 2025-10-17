@@ -14,6 +14,7 @@
 
 •	Offers a real-time and interactive experience, enhancing productivity and time management.
 
+**main features**
 
 •	Add New Events: Users can easily create new events with details like title, date, and description.
 

@@ -41,3 +41,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 Version Control: Git & GitHub
+output https://drive.google.com/file/d/1O6hdwkjqHmXA-lgfIhLdYJuvkoOIFg_X/view
